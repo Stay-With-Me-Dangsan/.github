@@ -8,11 +8,11 @@
   - Design
     - 랑
     - 머스타드
-  - BackEnd
+  - Back
     - 혜인
     - 수진
     - 형택
-  - FrontEnd
+  - Front
     - 우산도둑
     - 수진
     - 형택
