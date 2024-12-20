@@ -1,5 +1,6 @@
-## Stay With Me Dangsan 👋
+## Stay With Me 👋
 
+### Project
 - [피그마](https://www.figma.com/design/K0ujbscME6yrvn7vht1aM3/stay-with-me?m=auto&t=Idbfmm35kj4xTEeG-6)
 - [BackEnd](https://github.com/Stay-With-Me-Dangsan/BE)
 - [FrontEnd](https://github.com/Stay-With-Me-Dangsan/FE)
@@ -16,6 +17,9 @@
     - 우산도둑
     - 수진
     - 형택
+
+### Date
+2024.11 ~ 
 
 <!--
 
